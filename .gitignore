@@ -1,0 +1,6 @@
+brain
+brain.exe
+*.svg
+data/
+*.edf
+!demo/*.svg
